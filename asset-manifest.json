@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bracu-cgpa-calculator/static/css/main.30db8c08.css",
-    "main.js": "/bracu-cgpa-calculator/static/js/main.86490404.js",
+    "main.js": "/bracu-cgpa-calculator/static/js/main.38dabcaa.js",
     "static/media/New_campus5.png": "/bracu-cgpa-calculator/static/media/New_campus5.35bd0da909b99e65b48e.png",
     "static/media/New_campus10.png": "/bracu-cgpa-calculator/static/media/New_campus10.ff2677d39dc59176cec2.png",
     "static/media/fa-solid-900.svg": "/bracu-cgpa-calculator/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
@@ -24,10 +24,10 @@
     "static/media/fa-regular-400.woff2": "/bracu-cgpa-calculator/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/bracu-cgpa-calculator/index.html",
     "main.30db8c08.css.map": "/bracu-cgpa-calculator/static/css/main.30db8c08.css.map",
-    "main.86490404.js.map": "/bracu-cgpa-calculator/static/js/main.86490404.js.map"
+    "main.38dabcaa.js.map": "/bracu-cgpa-calculator/static/js/main.38dabcaa.js.map"
   },
   "entrypoints": [
     "static/css/main.30db8c08.css",
-    "static/js/main.86490404.js"
+    "static/js/main.38dabcaa.js"
   ]
 }
